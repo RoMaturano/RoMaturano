@@ -3,7 +3,7 @@ Holaa 🙌🏽
 Me llamo Rocio Maturano y  vivo en Cordoba, Argentina🙋🏽
 Este es mi espacio para subir mis primeros trabajos  que me van a llevar a lo grande 🎖️
 
-🤓 Actualmente estoy terminando un bootcamp para full stack developer 
+🤓 Actualmente e terminando un bootcamp de full stack developer (HENRY)
 
 😎Tambien estoy cursando la carrera Analista de sistemas
 
